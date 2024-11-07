@@ -115,10 +115,12 @@ Order by subscriptionend_count desc
 
 #### Pivot Summarization
 Region by Sum of Revenue
-![Screenshot 2024-11-07 235329](https://github.com/user-attachments/assets/ddfe0897-27b4-418a-acb6-40cc71110b4e)
+![Screenshot 2024-11-07 235329](https://github.com/user-attachments/assets/2bc921cc-4037-42b8-a65f-dfb3a5705727)
+
 
 Region by Count of Canceled
-![Screenshot 2024-11-07 235423](https://github.com/user-attachments/assets/5351d65c-d038-4e2f-a59e-8f48e8431447)
+![Screenshot 2024-11-07 235423](https://github.com/user-attachments/assets/69cfe811-4bd8-4f53-a663-6aefddd9343a)
+
 
 ### Visualization
 #### Insight from PowerBI
